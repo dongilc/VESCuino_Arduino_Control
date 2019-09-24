@@ -1,0 +1,5 @@
+{
+    "sketch": "AnalogReadSerial.ino",
+    "port": "/dev/ttyACM2",
+    "board": "arduino:sam:arduino_due_x"
+}

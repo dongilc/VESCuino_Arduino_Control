@@ -1,0 +1,5 @@
+{
+    "board": "arduino:sam:arduino_due_x_dbg",
+    "port": "/dev/ttyACM2",
+    "sketch": "VESCuino_SPI.ino"
+}

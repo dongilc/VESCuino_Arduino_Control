@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/cdi/.arduino15/packages/arduino/tools/**",
+                "/home/cdi/.arduino15/packages/arduino/hardware/sam/1.6.11/**",
+                "/home/cdi/CloudStation/workspace/workspace_arduino/libraries/**"
+            ],
+            "forcedInclude": [
+                "/home/cdi/.arduino15/packages/arduino/hardware/sam/1.6.11/cores/arduino/Arduino.h"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
